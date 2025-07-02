@@ -49,9 +49,9 @@ Received a **special recognition grant** of ₹5,00,000 from **MiniOrange CEO** 
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=your-github-username&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&theme=tokyonight&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=latikaray&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=latikaray&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=latikaray&theme=tokyonight&hide_border=false&layout=compact)
 
 ---
 
