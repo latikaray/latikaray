@@ -1,6 +1,6 @@
 # 💫 About Me:
-Enthusiastic Computer Engineering student, third year, NMIET. 
-Skilled in **Frontend Development**, **Java**, **Software engineering**, and exploring backend technologies in **java fullstack**.  
+Enthusiastic Computer Engineering student, final year, NMIET. 
+Skilled in **Data Analytics**, **MERN(Basic)**, **Software Engineering**, and exploring technologies in **Data Analytics and Business Intelligence**.  
 Pursuing **Bachelors of Engineering**, with a strong interest in solving real-world problems using tech.
 
 Beyond academics, I'm involved in leading my team in tech events, participating in national-level **hackathons** and **ideathons**.
@@ -32,8 +32,6 @@ Beyond academics, I'm involved in leading my team in tech events, participating 
 > It leverages **gamification** to help inculcate core emotional values in kids in an interactive and engaging way.
 
 Built using modern web technologies like **React.js** and designed for scalability and real-world use in schools and homes.
-
-🔗 **[Project Link Coming Soon]**  
 
 ---
 
