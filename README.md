@@ -135,8 +135,8 @@ An end-to-end data analytics project optimizing retail inventory, pricing strate
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=latikaray&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=9370DB&text_color=FFFFFF&icon_color=8A2BE2&ring_color=4B0082" height="195" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=latikaray&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=9370DB&text_color=FFFFFF&icon_color=8A2BE2" height="195" alt="Top Languages"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=latikaray&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=9370DB&text_color=FFFFFF&icon_color=8A2BE2&ring_color=4B0082" height="195" alt="GitHub Stats"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=latikaray&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=9370DB&text_color=FFFFFF&icon_color=8A2BE2" height="195" alt="Top Languages"/>
 <br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=latikaray&theme=transparent&hide_border=true&background=0D1117&ring=9370DB&fire=8A2BE2&currStreakLabel=9370DB" alt="GitHub Streak"/>
 
@@ -147,7 +147,7 @@ An end-to-end data analytics project optimizing retail inventory, pricing strate
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=latikaray&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-one.vercel.app/?username=latikaray&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
 </div>
 
 ---
