@@ -10,7 +10,7 @@ Beyond academics, I'm involved in leading my team in tech events, participating 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/latika-ray) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:latikar109@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://latika-ray-portfolio.vercel.app)
 
 
 ---
@@ -21,17 +21,6 @@ Beyond academics, I'm involved in leading my team in tech events, participating 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
-
----
-
-# 🚀 Projects:
-
-### 🧠 EmR Play – *Empathy & Respect through Play*
-> **EmR Play** is a digital platform designed to enhance **emotional quotient (EQ)** in children.  
-> “**Em**” stands for **Empathy**, and “**R**” for **Respect**.  
-> It leverages **gamification** to help inculcate core emotional values in kids in an interactive and engaging way.
-
-Built using modern web technologies like **React.js** and designed for scalability and real-world use in schools and homes.
 
 ---
 
